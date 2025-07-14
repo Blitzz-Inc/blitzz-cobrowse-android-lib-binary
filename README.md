@@ -20,4 +20,4 @@ Any questions at all? Please email us directly at [support@blitzz.co](mailto:sup
 
 ## Requirements
 
-* API version 19 (4.4 KitKat) or later
+* API version 21 (5 Lollipop) or later
